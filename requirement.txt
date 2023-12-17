@@ -1,0 +1,4 @@
+ctransformers
+customtkinter
+langchain
+Pillow
